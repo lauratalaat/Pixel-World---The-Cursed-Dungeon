@@ -1,0 +1,20 @@
+< bckimg background > 
+<page >
+<line >
+<img 0 0 Urg >
+
+
+<color 125 0 7 >Urg: </color >I'm no warior, I'm a miner...</line >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Urg >
+
+
+<color 125 0 7 >Urg: </color >Work, work...</line >
+< we >
+< flip > < sleep 100 >
+< we >
+</page >

@@ -1,0 +1,19 @@
+< bckimg background > <page >
+<line >
+<img 0 0 Yukig >
+
+
+
+<color 125 0 7 >Yukig: </color > I-it-it really hurts!</line >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+
+
+The cyclop ran away with his eye in tears.</line >
+<we >
+< flip > < sleep 100 >
+<we >
+</page >

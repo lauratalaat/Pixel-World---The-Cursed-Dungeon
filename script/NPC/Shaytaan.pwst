@@ -1,0 +1,44 @@
+< bckimg background > <page >
+<line >
+<img 0 0 Shaytaan >
+
+
+
+<color 125 0 7 >Shaytaan: </color > Who dares to bother me? </line >
+
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Shaytaan >
+
+
+
+<color 125 0 7 >Shaytaan: </color > Ah, it's you... What do ye want? </line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Timy >
+
+
+
+<color 125 0 7 >Timy: </color > I'm here to throw you out of this world! </line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Shaytaan >
+
+
+
+<color 125 0 7 >Shaytaan: </color > Ha! You can try... but I'll have no mercy! </line >
+<we >
+< flip > < sleep 100 >
+<we >
+</page >

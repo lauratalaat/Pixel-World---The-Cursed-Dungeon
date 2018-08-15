@@ -1,0 +1,20 @@
+< bckimg background > <page >
+<line >
+<img 0 0 Valgard >
+
+
+
+<color 125 0 7 >Valgard: </color > Even if you defeated me, this guys won't let you touch their things...</line >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+
+
+
+Valgard's corpse broke in many pieces of stone, then transformed in dust and disappeared.</line >
+<we >
+< flip > < sleep 100 >
+<we >
+</page >

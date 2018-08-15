@@ -1,0 +1,69 @@
+< bckimg background > <page >
+<line >
+<img 0 0 Asmund >
+
+
+<color 125 0 7 >Asmund: </color > I like your weapons, friend.</line >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color > I like yours. How did you get them?</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Asmund >
+
+
+<color 125 0 7 >Asmund: </color > We had to run from an angry dragon, and we left the equipment behind.</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+page >
+<line >
+<img 0 0 Asmund >
+
+
+<color 125 0 7 >Asmund: </color > When we got here, we had to buy new ones from the blacksmith.</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color > I should pay him a visit.</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Asmund >
+
+
+<color 125 0 7 >Asmund: </color > You always need weapons, as you need beer!</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color > I know exactly what you mean!</line >
+<we >
+< flip > < sleep 100 >
+<we >
+</page >

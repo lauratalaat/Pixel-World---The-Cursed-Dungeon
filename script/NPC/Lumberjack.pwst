@@ -1,0 +1,68 @@
+< bckimg background > <page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color >Hey, what happened to the bridge?</line >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Lumberjack >
+
+
+<color 125 0 7 >Lumberjack: </color >Good day! The devil destroyed it... I'm tired of his pranks.</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Lumberjack >
+
+
+<color 125 0 7 >Lumberjack: </color >I can repair the bridge, but he'll break something else.</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color >You repair the bridge, I'll take care of this devil. </line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Lumberjack >
+
+
+<color 125 0 7 >Lumberjack: </color >Very well then, I should get to work!</line >
+<line > Farewell! </line >
+<we >
+< flip > < sleep 100 >
+</page >
+<page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color >So long! </line >
+<we >
+< flip > < sleep 100 >
+</page >
+<page >
+<line >
+
+
+
+The lumberjack repairs the bridge and then, exhausted, he enters his house to rest.</line >
+<we >
+< flip > < sleep 100 >
+<we >
+</page >

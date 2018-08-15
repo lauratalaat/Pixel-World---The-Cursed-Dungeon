@@ -1,0 +1,30 @@
+< bckimg background > <page >
+<line >
+<img 0 0 Werewolf >
+
+
+<color 125 0 7 >Werewolf: </color > Rrrraaaargggghhh!!</line >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+<img 0 0 Timy >
+
+
+<color 125 0 7 >Timy: </color > Shut up!</line >
+<we >
+< flip > < sleep 100 >
+</page >
+
+<page >
+<line >
+
+
+
+With one last slash Timy killed the beast. The werewolf's dead body burst in flames.</line >
+<line > The fire faded and the corpse was gone. </line >
+<we >
+< flip > < sleep 100 >
+<we >
+</page >
